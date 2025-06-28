@@ -11,11 +11,11 @@ class MainApp extends StatelessWidget {
       home: Scaffold(
         appBar: AppBar(
           title: Text("welcome seashathri"),
-          centerTitle: true, // ✅ Add this line
+          centerTitle: tqrue, // ✅ Add this line
           backgroundColor: Colors.blue,
         ),
         body: Center(
-          child: Text("You are running Flutter on Gitpod!"),
+          child: Text(" i am a beginner in flutter"),
         ),
       ),
     );
