@@ -39,3 +39,11 @@ git clone https://github.com/seshathri044/flutter_app.git
 cd flutter_app
 flutter pub get
 flutter run
+## 🙋‍♂️ Author
+
+**Seshathri**  
+[GitHub Profile](https://github.com/seshathri044)
+
+## 📄 License
+
+This project is open source and available under the [MIT License](LICENSE).
