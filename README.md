@@ -1,4 +1,3 @@
-# flutter_app_demo
 # Flutter Demo App
 
 This is a simple Flutter application showcasing the basic structure and components of a Flutter app. It serves as a starting point for beginners to understand how to create user interfaces, navigation, and UI widgets like `AppBar`, `Drawer`, `BottomNavigationBar`, and `FloatingActionButton`.
